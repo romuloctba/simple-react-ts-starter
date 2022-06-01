@@ -1,0 +1,14 @@
+$bodyColor: aliceblue;
+$outlineColor: green;
+
+.wrapper {
+  background-color: $bodyColor;
+}
+
+*:focus {
+  outline: solid $outlineColor
+}
+
+*:focus-visible {
+  outline: solid lighten($outlineColor, 40);
+ }
