@@ -1,6 +1,6 @@
-## Simple React Ts Starter <small>by RcDev</small>
+## Simple React Ts Starter
 
-I use this repo as base for simple static-file ReactJs projects, usualy SPA's, without routing.
+I use this repo as base for simple static-file ReactJs projects, usually SPA's, without routing.
 
 ---
 
